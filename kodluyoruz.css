@@ -1,0 +1,33 @@
+body{
+    font-family: fantasy;
+    font-size: 35px
+    ;
+}
+
+p{
+    font-size: 25px
+}
+
+nav{
+    background-color: aquamarine;
+}
+
+footer{
+    background-color: aquamarine;
+}
+
+ol{
+    list-style-position: inside;
+}
+
+h1{
+    color: blue;
+}
+
+a{
+    color: chocolate;
+}
+
+p{
+    font-size: 25px;
+}
